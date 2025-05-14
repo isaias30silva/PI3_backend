@@ -45,7 +45,7 @@ Ao acessar a aplicação, é possível obter informações relacionadas ao ender
 </div>
 
 - Criar uma pasta para o projeto
-- Abrir o VSCODE, clicar em "Abrir Pasta" e localizar a pasta criada. Abrir um terminal e executar o comando: `git clone git@github.com:isaias30silva/Univesp_DejacB.git`
+- Abrir o VSCODE, clicar em "Abrir Pasta" e localizar a pasta criada. Abrir um terminal e executar o comando: `git clone git@github.com:isaias30silva/PI3_backend.git`
 - Executar o comando `npm install`
 - Executar o comando `npm install firebase`
 - Executar o comando `npm install firebase-admin`
@@ -53,7 +53,7 @@ Ao acessar a aplicação, é possível obter informações relacionadas ao ender
 - Se tudo estiver funcionando corretamente, o back-end estará rodando na URL: [http://localhost:8800/](http://localhost:8800/) e apresentará a mensagem "Servidor está funcionando!"
 
 Com o funcionamento do backend, o próximo passo será baixar o projeto frontend, disponível em:  
-`git@github.com:isaias30silva/Univesp_Dejac.git`
+`git@github.com:isaias30silva/PI3_Frontend.git`
 
 **Equipe de desenvolvimento**
 
