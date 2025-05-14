@@ -95,8 +95,8 @@ Com o funcionamento do backend, o próximo passo será baixar o projeto frontend
 <table>
   <tr>
     <td align="center">
-      <img src="imagens/adria.jpg" alt="Adria Cristina da Silva" style="width: 100px; height: auto;">
-      <p>Adria Cristina da Silva</p>
+      <img src="imagens/marcos.jpg" alt="Marcos Fernandes Rezende Junior" style="width: 100px; height: auto;">
+      <p>Marcos Fernandes Rezende Junior</p>
     </td>
   </tr>
 </table>
